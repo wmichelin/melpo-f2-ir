@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+# MELPO BLFL-LFBA RGBW floodlight, 50 W, ASIN B08T5XR951, F2-family remote.
+# Reconstructed NEC commands physically tested using a Cardputer ADV.
+# Original remote unavailable; not direct captures. Flipper hardware untested.
+# Power and brightness verified. Scene names matched to F2 manual and behavior.
+# Red/Yellow/Green/Blue are fine wheel adjustments; repeat taps as needed.
+# Store_1 and Store_2 recall editable colors, not fixed color buttons.
+# DIY_FLASH short-press effect tested; long-press programming untested.
+# Source and confidence: https://github.com/wmichelin/melpo-f2-ir
+# License: CC0-1.0
+# Timer is an inferred candidate with an observed acknowledgement flash.
+# Hour-long shutoff, recurrence, and cancellation have NOT been verified.
+#
+name: Timer_candidate
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 09 00 00 00

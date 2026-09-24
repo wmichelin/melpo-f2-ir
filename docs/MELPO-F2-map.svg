@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="1030" viewBox="0 0 820 1030">
+<rect width="820" height="1030" fill="#f6f4ee"/>
+<style>text{font-family:Arial,sans-serif}.title{font-size:29px;font-weight:700;fill:#172a32}.sub{font-size:15px;fill:#52616a}.label{font-size:14px;fill:white;font-weight:600}.code{font-size:19px;fill:#72ded0;font-family:monospace}.note{font-size:14px;fill:#344950}</style>
+<text x="44" y="56" class="title">MELPO · F2 remote map</text>
+<text x="44" y="86" class="sub">B08T5XR951 / BLFL-LFBA · NEC · Address 0000 · Commands in hex</text>
+<rect x="44" y="122" width="396" height="820" rx="42" fill="#182d36"/>
+<rect x="68" y="148" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="121" y="177" class="label" text-anchor="middle">Dim +</text>
+<text x="121" y="207" class="code" text-anchor="middle">45</text>
+<rect x="188" y="148" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="241" y="177" class="label" text-anchor="middle">Dim −</text>
+<text x="241" y="207" class="code" text-anchor="middle">46</text>
+<rect x="308" y="148" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="361" y="177" class="label" text-anchor="middle">On</text>
+<text x="361" y="207" class="code" text-anchor="middle">47</text>
+<rect x="68" y="248" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="121" y="277" class="label" text-anchor="middle">DIY-FLASH</text>
+<text x="121" y="307" class="code" text-anchor="middle">44</text>
+<rect x="188" y="248" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="241" y="277" class="label" text-anchor="middle">Smooth</text>
+<text x="241" y="307" class="code" text-anchor="middle">40</text>
+<rect x="308" y="248" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="361" y="277" class="label" text-anchor="middle">Off</text>
+<text x="361" y="307" class="code" text-anchor="middle">43</text>
+<rect x="68" y="348" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="121" y="377" class="label" text-anchor="middle">Store 1</text>
+<text x="121" y="407" class="code" text-anchor="middle">07</text>
+<rect x="188" y="348" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="241" y="377" class="label" text-anchor="middle">Store 2</text>
+<text x="241" y="407" class="code" text-anchor="middle">15</text>
+<rect x="308" y="348" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="361" y="377" class="label" text-anchor="middle">Timer*</text>
+<text x="361" y="407" class="code" text-anchor="middle">09</text>
+<rect x="68" y="448" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="121" y="477" class="label" text-anchor="middle">Cozy</text>
+<text x="121" y="507" class="code" text-anchor="middle">16</text>
+<rect x="188" y="448" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="241" y="477" class="label" text-anchor="middle">Fresh</text>
+<text x="241" y="507" class="code" text-anchor="middle">19</text>
+<rect x="308" y="448" width="106" height="82" rx="18" fill="#29434e"/>
+<text x="361" y="477" class="label" text-anchor="middle">Romantic</text>
+<text x="361" y="507" class="code" text-anchor="middle">0D</text>
+<circle cx="242" cy="729" r="140" fill="none" stroke="#3b5760" stroke-width="20"/>
+<rect x="92" y="590" width="106" height="82" rx="18" fill="#793844"/>
+<text x="145" y="619" class="label" text-anchor="middle">Red</text>
+<text x="145" y="649" class="code" text-anchor="middle">0C</text>
+<rect x="282" y="590" width="106" height="82" rx="18" fill="#746333"/>
+<text x="335" y="619" class="label" text-anchor="middle">Yellow</text>
+<text x="335" y="649" class="code" text-anchor="middle">5E</text>
+<rect x="92" y="798" width="106" height="82" rx="18" fill="#354b7c"/>
+<text x="145" y="827" class="label" text-anchor="middle">Blue</text>
+<text x="145" y="857" class="code" text-anchor="middle">42</text>
+<rect x="282" y="798" width="106" height="82" rx="18" fill="#2d6858"/>
+<text x="335" y="827" class="label" text-anchor="middle">Green</text>
+<text x="335" y="857" class="code" text-anchor="middle">4A</text>
+<rect x="189" y="695" width="106" height="82" rx="18" fill="#4a5c65"/>
+<text x="242" y="724" class="label" text-anchor="middle">Daily white</text>
+<text x="242" y="754" class="code" text-anchor="middle">1C</text>
+<text x="480" y="157" class="title" style="font-size:21px">Recovered by testing</text>
+<text x="480" y="191" class="note">On / Off verified separately.</text>
+<text x="480" y="218" class="note">Brightness and white verified.</text>
+<text x="480" y="245" class="note">Store recall + adjustment verified.</text>
+<text x="480" y="272" class="note">Wheel changes need multiple taps.</text>
+<text x="480" y="321" class="note">Scene names match F2 layout</text>
+<text x="480" y="344" class="note">and observed changing effects.</text>
+<text x="480" y="395" class="note">*Timer is a candidate:</text>
+<text x="480" y="418" class="note">timed operation not verified.</text>
+<text x="480" y="441" class="note">DIY programming not tested.</text>
+<text x="480" y="515" class="title" style="font-size:21px">Cardputer shortcuts</text>
+<text x="480" y="551" class="note">O on · K off · W white</text>
+<text x="480" y="580" class="note">+ / − brightness</text>
+<text x="480" y="609" class="note">N / P select · Enter send</text>
+<text x="480" y="638" class="note">R remote · M scanner</text>
+<text x="480" y="728" class="note">Store colors are editable.</text>
+<text x="480" y="753" class="note">Orange and cyan were settings,</text>
+<text x="480" y="778" class="note">not fixed button meanings.</text>
+<text x="44" y="985" class="sub">Physical tests: identical MELPO light + Cardputer ADV + webcam. See the map notes for evidence.</text>
+</svg>
