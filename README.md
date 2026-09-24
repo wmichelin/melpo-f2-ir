@@ -68,6 +68,8 @@ The [F2 manual](https://www.roweevents.ca/wp-content/uploads/2022/01/RGB-light.p
 
 See [build instructions and keys](firmware/CardputerIRTester/README.md). The source uses the already-tested GPIO 44 transmitter. The separate `MelpoF2.h` table contains the recovered controls; retained generic scanner candidates are clearly separate and are **not** represented as F2 codes.
 
+Upstream contribution: [Flipper-IRDB PR #1126](https://github.com/Lucaslhm/Flipper-IRDB/pull/1126).
+
 ## Validation and contributions
 
 Run `python3 scripts/validate.py` to check encodings, exported signals, and the firmware table. See [CONTRIBUTING.md](CONTRIBUTING.md) for useful independent confirmations, especially Timer and long-press behavior.
